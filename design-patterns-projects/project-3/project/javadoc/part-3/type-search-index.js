@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"com.company","l":"Alter"},{"p":"com.company","l":"Command"},{"p":"com.company","l":"Database"},{"p":"com.company","l":"MacroCommand"},{"p":"com.company","l":"Main"},{"p":"com.company","l":"Select"},{"p":"com.company","l":"Update"}]

@@ -1,0 +1,46 @@
+<svg version="1.1" baseProfile="full" width="400" height="400" xmlns="http://www.w3.org/2000/svg">
+	<rect width="100%" height="100%" fill="gray" />
+	<circle cx = "200" cy = "200" r = "200" fill = "pink" stroke = "black" stroke-width = "1" />
+	<polygon points = "162.5,5.14428 125,70.0962 200,70.0962" fill = "purple" stroke = "black" stroke-width = "1" />
+	<polygon points = "237.5,5.14428 200,70.0962 275,70.0962" fill = "purple" stroke = "black" stroke-width = "1" />
+	<polygon points = "50,70.0962 12.5,135.048 87.5,135.048" fill = "purple" stroke = "black" stroke-width = "1" />
+	<polygon points = "125,70.0962 87.5,135.048 162.5,135.048" fill = "purple" stroke = "black" stroke-width = "1" />
+	<polygon points = "200,70.0962 162.5,135.048 237.5,135.048" fill = "purple" stroke = "black" stroke-width = "1" />
+	<polygon points = "275,70.0962 237.5,135.048 312.5,135.048" fill = "purple" stroke = "black" stroke-width = "1" />
+	<polygon points = "350,70.0962 312.5,135.048 387.5,135.048" fill = "purple" stroke = "black" stroke-width = "1" />
+	<polygon points = "87.5,135.048 50,200 125,200" fill = "purple" stroke = "black" stroke-width = "1" />
+	<polygon points = "162.5,135.048 125,200 200,200" fill = "purple" stroke = "black" stroke-width = "1" />
+	<polygon points = "237.5,135.048 200,200 275,200" fill = "purple" stroke = "black" stroke-width = "1" />
+	<polygon points = "312.5,135.048 275,200 350,200" fill = "purple" stroke = "black" stroke-width = "1" />
+	<polygon points = "50,200 12.5,264.952 87.5,264.952" fill = "purple" stroke = "black" stroke-width = "1" />
+	<polygon points = "125,200 87.5,264.952 162.5,264.952" fill = "purple" stroke = "black" stroke-width = "1" />
+	<polygon points = "200,200 162.5,264.952 237.5,264.952" fill = "purple" stroke = "black" stroke-width = "1" />
+	<polygon points = "275,200 237.5,264.952 312.5,264.952" fill = "purple" stroke = "black" stroke-width = "1" />
+	<polygon points = "350,200 312.5,264.952 387.5,264.952" fill = "purple" stroke = "black" stroke-width = "1" />
+	<polygon points = "87.5,264.952 50,329.904 125,329.904" fill = "purple" stroke = "black" stroke-width = "1" />
+	<polygon points = "162.5,264.952 125,329.904 200,329.904" fill = "purple" stroke = "black" stroke-width = "1" />
+	<polygon points = "237.5,264.952 200,329.904 275,329.904" fill = "purple" stroke = "black" stroke-width = "1" />
+	<polygon points = "312.5,264.952 275,329.904 350,329.904" fill = "purple" stroke = "black" stroke-width = "1" />
+	<polygon points = "200,329.904 162.5,394.856 237.5,394.856" fill = "purple" stroke = "black" stroke-width = "1" />
+	<polygon points = "162.5,5.14428 200,70.0962 237.5,5.14428" fill = "purple" stroke = "black" stroke-width = "1" />
+	<polygon points = "50,70.0962 87.5,135.048 125,70.0962" fill = "purple" stroke = "black" stroke-width = "1" />
+	<polygon points = "125,70.0962 162.5,135.048 200,70.0962" fill = "purple" stroke = "black" stroke-width = "1" />
+	<polygon points = "200,70.0962 237.5,135.048 275,70.0962" fill = "purple" stroke = "black" stroke-width = "1" />
+	<polygon points = "275,70.0962 312.5,135.048 350,70.0962" fill = "purple" stroke = "black" stroke-width = "1" />
+	<polygon points = "12.5,135.048 50,200 87.5,135.048" fill = "purple" stroke = "black" stroke-width = "1" />
+	<polygon points = "87.5,135.048 125,200 162.5,135.048" fill = "purple" stroke = "black" stroke-width = "1" />
+	<polygon points = "162.5,135.048 200,200 237.5,135.048" fill = "purple" stroke = "black" stroke-width = "1" />
+	<polygon points = "237.5,135.048 275,200 312.5,135.048" fill = "purple" stroke = "black" stroke-width = "1" />
+	<polygon points = "312.5,135.048 350,200 387.5,135.048" fill = "purple" stroke = "black" stroke-width = "1" />
+	<polygon points = "50,200 87.5,264.952 125,200" fill = "purple" stroke = "black" stroke-width = "1" />
+	<polygon points = "125,200 162.5,264.952 200,200" fill = "purple" stroke = "black" stroke-width = "1" />
+	<polygon points = "200,200 237.5,264.952 275,200" fill = "purple" stroke = "black" stroke-width = "1" />
+	<polygon points = "275,200 312.5,264.952 350,200" fill = "purple" stroke = "black" stroke-width = "1" />
+	<polygon points = "12.5,264.952 50,329.904 87.5,264.952" fill = "purple" stroke = "black" stroke-width = "1" />
+	<polygon points = "87.5,264.952 125,329.904 162.5,264.952" fill = "purple" stroke = "black" stroke-width = "1" />
+	<polygon points = "162.5,264.952 200,329.904 237.5,264.952" fill = "purple" stroke = "black" stroke-width = "1" />
+	<polygon points = "237.5,264.952 275,329.904 312.5,264.952" fill = "purple" stroke = "black" stroke-width = "1" />
+	<polygon points = "312.5,264.952 350,329.904 387.5,264.952" fill = "purple" stroke = "black" stroke-width = "1" />
+	<polygon points = "125,329.904 162.5,394.856 200,329.904" fill = "purple" stroke = "black" stroke-width = "1" />
+	<polygon points = "200,329.904 237.5,394.856 275,329.904" fill = "purple" stroke = "black" stroke-width = "1" />
+</svg>

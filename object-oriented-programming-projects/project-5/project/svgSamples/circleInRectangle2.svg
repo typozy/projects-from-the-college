@@ -1,0 +1,32 @@
+<svg version="1.1" baseProfile="full" width="300" height="500" xmlns="http://www.w3.org/2000/svg">
+	<rect width="100%" height="100%" fill="gray" />
+	<rect x = "0" y = "0" width = "300" height = "500" fill = "pink" stroke = "black" stroke-width = "1" />
+	<circle cx = "35" cy = "35" r = "35" fill = "purple" stroke = "black" stroke-width = "1" />
+	<circle cx = "105" cy = "35" r = "35" fill = "purple" stroke = "black" stroke-width = "1" />
+	<circle cx = "175" cy = "35" r = "35" fill = "purple" stroke = "black" stroke-width = "1" />
+	<circle cx = "245" cy = "35" r = "35" fill = "purple" stroke = "black" stroke-width = "1" />
+	<circle cx = "35" cy = "105" r = "35" fill = "purple" stroke = "black" stroke-width = "1" />
+	<circle cx = "105" cy = "105" r = "35" fill = "purple" stroke = "black" stroke-width = "1" />
+	<circle cx = "175" cy = "105" r = "35" fill = "purple" stroke = "black" stroke-width = "1" />
+	<circle cx = "245" cy = "105" r = "35" fill = "purple" stroke = "black" stroke-width = "1" />
+	<circle cx = "35" cy = "175" r = "35" fill = "purple" stroke = "black" stroke-width = "1" />
+	<circle cx = "105" cy = "175" r = "35" fill = "purple" stroke = "black" stroke-width = "1" />
+	<circle cx = "175" cy = "175" r = "35" fill = "purple" stroke = "black" stroke-width = "1" />
+	<circle cx = "245" cy = "175" r = "35" fill = "purple" stroke = "black" stroke-width = "1" />
+	<circle cx = "35" cy = "245" r = "35" fill = "purple" stroke = "black" stroke-width = "1" />
+	<circle cx = "105" cy = "245" r = "35" fill = "purple" stroke = "black" stroke-width = "1" />
+	<circle cx = "175" cy = "245" r = "35" fill = "purple" stroke = "black" stroke-width = "1" />
+	<circle cx = "245" cy = "245" r = "35" fill = "purple" stroke = "black" stroke-width = "1" />
+	<circle cx = "35" cy = "315" r = "35" fill = "purple" stroke = "black" stroke-width = "1" />
+	<circle cx = "105" cy = "315" r = "35" fill = "purple" stroke = "black" stroke-width = "1" />
+	<circle cx = "175" cy = "315" r = "35" fill = "purple" stroke = "black" stroke-width = "1" />
+	<circle cx = "245" cy = "315" r = "35" fill = "purple" stroke = "black" stroke-width = "1" />
+	<circle cx = "35" cy = "385" r = "35" fill = "purple" stroke = "black" stroke-width = "1" />
+	<circle cx = "105" cy = "385" r = "35" fill = "purple" stroke = "black" stroke-width = "1" />
+	<circle cx = "175" cy = "385" r = "35" fill = "purple" stroke = "black" stroke-width = "1" />
+	<circle cx = "245" cy = "385" r = "35" fill = "purple" stroke = "black" stroke-width = "1" />
+	<circle cx = "35" cy = "455" r = "35" fill = "purple" stroke = "black" stroke-width = "1" />
+	<circle cx = "105" cy = "455" r = "35" fill = "purple" stroke = "black" stroke-width = "1" />
+	<circle cx = "175" cy = "455" r = "35" fill = "purple" stroke = "black" stroke-width = "1" />
+	<circle cx = "245" cy = "455" r = "35" fill = "purple" stroke = "black" stroke-width = "1" />
+</svg>

@@ -1,0 +1,14 @@
+<svg version="1.1" baseProfile="full" width="300" height="259.808" xmlns="http://www.w3.org/2000/svg">
+	<rect width="100%" height="100%" fill="gray" />
+	<polygon points = "0,259.808 150,0 300,259.808" fill = "pink" stroke = "black" stroke-width = "1" />
+	<circle cx = "51.9615" cy = "229.808" r = "30" fill = "purple" stroke = "black" stroke-width = "1" />
+	<circle cx = "111.962" cy = "229.808" r = "30" fill = "purple" stroke = "black" stroke-width = "1" />
+	<circle cx = "171.962" cy = "229.808" r = "30" fill = "purple" stroke = "black" stroke-width = "1" />
+	<circle cx = "231.962" cy = "229.808" r = "30" fill = "purple" stroke = "black" stroke-width = "1" />
+	<circle cx = "81.9615" cy = "177.846" r = "30" fill = "purple" stroke = "black" stroke-width = "1" />
+	<circle cx = "141.962" cy = "177.846" r = "30" fill = "purple" stroke = "black" stroke-width = "1" />
+	<circle cx = "201.962" cy = "177.846" r = "30" fill = "purple" stroke = "black" stroke-width = "1" />
+	<circle cx = "111.962" cy = "125.885" r = "30" fill = "purple" stroke = "black" stroke-width = "1" />
+	<circle cx = "171.962" cy = "125.885" r = "30" fill = "purple" stroke = "black" stroke-width = "1" />
+	<circle cx = "141.962" cy = "73.923" r = "30" fill = "purple" stroke = "black" stroke-width = "1" />
+</svg>

@@ -1,0 +1,5 @@
+<svg version="1.1" baseProfile="full" width="120" height="103.923" xmlns="http://www.w3.org/2000/svg">
+	<rect width="100%" height="100%" fill="gray" />
+	<polygon points = "0,103.923 60,0 120,103.923" fill = "pink" stroke = "black" stroke-width = "1" />
+	<rect x = "43.3013" y = "28.923" width = "25" height = "75" fill = "purple" stroke = "black" stroke-width = "1" />
+</svg>

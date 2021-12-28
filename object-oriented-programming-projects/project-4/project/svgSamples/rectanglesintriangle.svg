@@ -1,0 +1,13 @@
+<svg version="1.1" baseProfile="full" width="140" height="121.244" xmlns="http://www.w3.org/2000/svg">
+	<rect width="100%" height="100%" fill="gray" />
+	<polygon points = "0,121.244 70,0 140,121.244" fill = "pink" stroke = "black" stroke-width = "1" />
+	<rect x = "11.547" y = "101.244" width = "30" height = "20" fill = "purple" stroke = "black" stroke-width = "1" />
+	<rect x = "41.547" y = "101.244" width = "30" height = "20" fill = "purple" stroke = "black" stroke-width = "1" />
+	<rect x = "71.547" y = "101.244" width = "30" height = "20" fill = "purple" stroke = "black" stroke-width = "1" />
+	<rect x = "23.094" y = "81.2436" width = "30" height = "20" fill = "purple" stroke = "black" stroke-width = "1" />
+	<rect x = "53.094" y = "81.2436" width = "30" height = "20" fill = "purple" stroke = "black" stroke-width = "1" />
+	<rect x = "83.094" y = "81.2436" width = "30" height = "20" fill = "purple" stroke = "black" stroke-width = "1" />
+	<rect x = "34.641" y = "61.2436" width = "30" height = "20" fill = "purple" stroke = "black" stroke-width = "1" />
+	<rect x = "64.641" y = "61.2436" width = "30" height = "20" fill = "purple" stroke = "black" stroke-width = "1" />
+	<rect x = "46.188" y = "41.2436" width = "30" height = "20" fill = "purple" stroke = "black" stroke-width = "1" />
+</svg>

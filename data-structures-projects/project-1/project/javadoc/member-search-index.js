@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"<Unnamed>","c":"Node","l":"getNext()"},{"p":"<Unnamed>","c":"Node","l":"getNextDay()"},{"p":"<Unnamed>","c":"Node","l":"getNode()"},{"p":"<Unnamed>","c":"Node","l":"Node()","url":"%3Cinit%3E()"},{"p":"<Unnamed>","c":"Node","l":"setNext(Node)"},{"p":"<Unnamed>","c":"Node","l":"setNextDay(Node)"},{"p":"<Unnamed>","c":"Node","l":"setNode(Experiment)"}]
